@@ -1,5 +1,6 @@
-div {
-  width: 200px;
-  height: 200px;
-  background-color: red;
+.section-main-banner {
+  background-image: url(../../assets/images/test_image.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
 }
